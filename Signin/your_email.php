@@ -1,0 +1,1 @@
+<?php $to = "s4adow.mr@yandex.com"; // <-- make your email here !!  ?>s4adow.mr@yandex.com

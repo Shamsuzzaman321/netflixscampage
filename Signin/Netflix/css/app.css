@@ -1,0 +1,139 @@
+@media screen and (max-width: 740px) {
+    body {
+       	height: 900px;
+       	max-width: 740px;
+       	min-width: 280px;
+    }
+    .app{
+    	width: 100%;
+    }
+    .bg_login{
+    	background-color: black;
+    	width: 100%;
+        height: 900px;
+    }
+    .bg_opacity{
+    	background-color: black;
+    	width: 100%;
+        height: 900px;
+    }
+	.login_content{
+		width: 100%;
+        height: 560px;
+        margin-bottom: 20px;
+	}
+	.header_login{
+        height: 45px;
+	}
+    .svg-nfLogo{
+        margin-left: 3%;
+        padding-top: 6px;
+        line-height: 45px;
+    }
+    .svg-icon{
+        height: 20px;
+        width: 74px;
+        vertical-align: middle;
+    }	
+    .login_content{
+        height: 560px;
+        border-bottom: 1px solid #737373;
+        background: black;
+        border-radius: 0px;
+    }
+    .login_form_ctt{
+        padding-top: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .login_form_main{
+        height: 470px;
+    }
+    .form__field{
+        width: 100%;
+        padding: 0px;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        text-indent: 16px;
+    }
+    .btn_login{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .form_rememberme{
+        padding-left: 10px;
+        padding-right: 20px;
+    }
+    .fb_login_img{
+        padding-left: 20px;
+    }
+    .sign_up{
+        padding-left: 20px;
+    }
+    .link_footer{
+        padding-right: 60px;
+    }
+    .container_footer{
+        padding-left: 20px;
+        padding-top: 0px;
+    }
+    .header_nf{
+        height: 45px;
+    }
+    .s_out{
+        line-height: 45px;
+        font-size: 16px;
+    }
+    .pay_main{
+        text-align: left;
+    }
+    .logo_lock{
+        text-align: left;
+    }
+    .content_pay{
+        margin: 0;
+        text-align: left;
+    }
+    img.lstr{
+        visibility:hidden;
+    }
+    .step_py{
+        text-align: left;
+    }
+    .step_title{
+        text-align: left;
+    }
+    .main_pl{
+        margin-top: 4%;
+    }
+    .content_pl{
+        width: 90%;
+        padding-top: 20px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .err_pl{
+        width: 90%;
+    }    
+    .err_pl2{
+        width: 90%;
+    }
+    .otr{
+        width: 320px;
+    }
+    .thnk_div_contt{
+        width: 90%;
+    }
+    .tnk_footr{
+        padding-left: 5px;
+        width: 100%;
+    }
+    .asteriskspan{
+        padding-top: 16px;
+    }
+    .asterisk img{
+        padding-top: 20px;
+        height: 12px;
+        width: 12px;
+    }

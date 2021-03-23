@@ -1,0 +1,38 @@
+@media screen and (max-width: 500px) {
+	.inside_main{
+		width: 100%;
+	}
+	.head_in_main{
+		padding: 0;
+	}
+	.form_secure{
+		padding: 5px;
+	}
+	.lable_secure{
+		width: 130px;
+	}
+	.info_secure{
+		width: 130px;
+	}
+	.birth_secure{
+		width: 25px;
+	}
+	.lable_s{
+		font-size: 11px;
+	}
+	.info_s{
+		font-size: 11px;
+	}
+	#z1{
+		width: 25px;
+	}
+	#z3{
+		width: 30px;
+	}
+	#dsecure{
+		width: 80px;
+	}
+	.qd{
+		font-size: 10px;
+	}
+}
